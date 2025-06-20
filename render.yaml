@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: insta-checker
-    runtime: python
-    buildCommand: ""
-    startCommand: "python app.py"
-    plan: free
